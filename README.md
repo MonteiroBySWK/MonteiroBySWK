@@ -2,8 +2,9 @@
 MONTEIRO(1)                User Commands                MONTEIRO(1)
 
 NAME
-     G. Monteiro — developer from Brazil. Emits NES emulators and
-     fractals from pure willpower. Uses Arch, by the way.
+     G. Monteiro — developer from Brazil. Scrubs bits at the lowest
+     level for rendering experiments nobody asked for. Uses Arch,
+     by the way.
 
 SYNOPSIS
      monteiro [--stack] [--hobbies] [--contact]
@@ -36,9 +37,11 @@ EXIT STATUS
      1    broke the build (it's fine, it's fine)
 
 BUGS
-     Known bugs include: deleting the .env, forgetting to git push,
-     and that one time in production. Reports go to the nearest
-     fire extinguisher. Fixes them eventually.
+     The 3am pager. The disk that was "definitely monitored" until
+     it wasn't. The config that worked locally and refused to work
+     anywhere else. The dependency that broke the build on a Friday
+     afternoon. All of them have been reported. None of them has
+     been fixed. It's a lifestyle :)
 
 AUTHOR
      MonteiroBySWK <https://monteirobyswk.vercel.app>
