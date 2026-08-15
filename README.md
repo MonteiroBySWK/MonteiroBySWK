@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/coswave.gif" alt="deep house waveform" width="90%" />
+</p>
+
 ```text
 MONTEIRO(1)                User Commands                MONTEIRO(1)
 
