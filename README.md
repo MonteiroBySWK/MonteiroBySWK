@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Low-level+systems+%2B+cloud+infrastructure;Arch+Linux+user+(by+the+way);Deep+House+producer+%2B+audio+craft;Babysitting+code+agents+(they+learn+fast%2C+never+listen)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Founder+%26+CTO+%40thera-org;Low-level+systems+%2B+cloud+infrastructure;Arch+Linux+user+(by+the+way);Deep+House+producer+%2B+audio+craft;Babysitting+code+agents+(they+learn+fast%2C+never+listen)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 > *Scrubs bits at the lowest level for rendering experiments nobody asked for. Uses Arch, by the way.*
 
-* **Role**: Working with **[@thera-org](https://github.com/thera-org)**, keeping cloud infrastructure from catching fire.
+* **Role**: Founder & CTO at **[@thera-org](https://github.com/thera-org)** — keeping cloud infrastructure from catching fire.
 * **DevOps**: Putting out production fires — *nowadays, significantly less than it used to be.*
 * **Homelab**: Runs a self-hosted homelab that occasionally decides to run him instead.
 * **Autonomous Agents**: Babysitting code agents (they learn fast, they just never listen).
