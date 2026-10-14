@@ -22,7 +22,9 @@
   <img src="https://img.shields.io/badge/Sound-Deep_House_124_BPM-e040fb?style=flat-square&logo=audacity&logoColor=white&labelColor=0d1117" alt="Deep House" />
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider" />
+</p>
 
 ### // 01. Overview
 
@@ -35,7 +37,9 @@
 * **Code Philosophy**: Writes Rust when possible, C when the professor demands it, and Python when no one is looking.
 * **Audio**: Producing deep house tracks whenever the groove hits — dissecting waveforms, basslines, and analog synths.
 
----
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider" />
+</p>
 
 ### // 02. Stack & Tooling
 
@@ -56,7 +60,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider" />
+</p>
 
 ### // 03. Telemetry
 
@@ -66,7 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonteiroBySWK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=9c27b0" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider" />
+</p>
 
 ### // 04. Incident Log
 
@@ -79,7 +87,9 @@
 
 > *All of them have been reported. None of them have been fixed. It's a lifestyle :)*
 
----
+<p align="center">
+  <img src="assets/divider.gif" width="100%" alt="divider" />
+</p>
 
 <p align="center">
   <sub>G. Monteiro · <a href="https://mswk.com.br">mswk.com.br</a> · <a href="https://github.com/MonteiroBySWK">@MonteiroBySWK</a></sub>
